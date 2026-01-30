@@ -15,9 +15,6 @@ An end-to-end Business Intelligence solution designed to monitor support ticket 
 - **Analysis:** DAX (Dynamic measures for SLA and Backlog tracking).
 - **Visualization:** Power BI Desktop.
 
-## 📈 Dashboard Preview
-![Dashboard Screenshot](link_to_your_screenshot_here)
-
 ## 💡 Business Insights
 1. **SLA Risk:** Identified a critical backlog of 3 high-priority tickets requiring immediate intervention.
 2. **Workload Distribution:** Technical Support handles 30%+ of total volume, primarily driven by 'Performance' and 'Bug' issues.
